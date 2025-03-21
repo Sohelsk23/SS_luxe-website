@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>S&S Luxe Portfolio</title>
+    <link rel="stylesheet" href="portfolio.css">
+</head>
+<body>
+    <header>
+        <div class="logo">S&S Luxe</div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="store.html">Store</a></li>
+                <li><a href="portfolio.html">Portfolio</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="portfolio">
+        <h1>Our Best Designs</h1>
+        <div class="gallery">
+            <img src="design1.jpg" alt="Design 1">
+            <img src="design2.jpg" alt="Design 2">
+            <img src="design3.jpg" alt="Design 3">
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 S&S Luxe | All Rights Reserved</p>
+    </footer>
+</body>
+</html>
