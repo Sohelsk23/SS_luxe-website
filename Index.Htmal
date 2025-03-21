@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>S&S Luxe - Wear the Trend, Own the Style</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="logo">S&S Luxe</div>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Store</a></li>
+                <li><a href="#">Portfolio</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section class="hero">
+        <h1>Wear the Trend, Own the Style</h1>
+        <p>Premium & Trendy T-shirts for Every Occasion</p>
+        <a href="#" class="btn">Shop Now</a>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 S&S Luxe | All Rights Reserved</p>
+    </footer>
+</body>
+</html>
